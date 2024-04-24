@@ -16,7 +16,6 @@ local keys = {
 “Luh-buyerkey”,
 “Vp-buyerkey”,
 }
-return keys, hwids
 
 local httpService = game:GetService('HttpService')
 local ThemeManager = {} do
